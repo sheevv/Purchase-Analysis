@@ -10,3 +10,6 @@ With these data in hand our aim is to answer three main questions:
 + What is the mean and standard deviation of total purchases made by users per day of week?
 + How is the distribution of total purchases made by users in weekends and working days?
 + RFM Clustering of the purchases made by users to get an insight about theier transaction
+
+Bellow I have provided a web based application written in Flask, Python.
+<http://sheevv.pythonanywhere.com/>
